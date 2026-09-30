@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://firealarmfieldpro.com/sitemap.xml
